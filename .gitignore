@@ -1,0 +1,64 @@
+# Windows system files and folders
+Thumbs.db
+ehthumbs.db
+ehthumbs_vista.db
+*.stackdump
+[Dd]esktop.ini
+$RECYCLE.BIN/
+*.cab
+*.msi
+*.msix
+*.msm
+*.msp
+*.lnk
+
+# AppData directory
+[Aa]ppData/
+*/[Aa]ppData/*
+**/[Aa]ppData/**
+
+# Common IDE and editor files
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+*~
+.vs/
+_ReSharper*/
+*.resharper
+*.DotSettings.user
+*.userprefs
+
+# Build outputs and dependencies
+[Bb]in/
+[Oo]bj/
+[Bb]uild/
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+[Aa]rtifacts/
+bld/
+node_modules/
+.nuget/
+**/packages/*
+!**/packages/build/
+*.nupkg
+*.pfx
+*.publishsettings
+
+# Temporary files
+*.tmp
+*.log
+*.bak
+*.swp
+*.cache
+.DS_Store
+*~.nib
+
+# Project-specific excludes
+# Add your project-specific excludes here
+
